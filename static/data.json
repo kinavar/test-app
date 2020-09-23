@@ -1,0 +1,287 @@
+{
+    "appointments": [
+        {
+            "dateCreated": "2019-05-07T07:16:29-0700",
+            "createdBy": "02",
+            "apptDateTime": "2019-05-14T10:18:23-0700",
+            "length": "45",
+            "roomId": "003",
+            "staffId": "01",
+            "patientId": "0004",
+            "type": "Follow Up",
+            "isVirtual": "false",
+            "status": "Not Complete"
+        },
+        {
+            "dateCreated": "2020-01-08T08:42:36+0300",
+            "createdBy": "03",
+            "apptDateTime": "2020-01-09T12:45:00+0300",
+            "length": "60",
+            "roomId": "001",
+            "staffId": "01",
+            "patientId": "0001",
+            "type": "Hearing Check",
+            "isVirtual": "false",
+            "status": "Complete"
+        },
+        {
+            "dateCreated": "2020-01-16T11:40:29-0400",
+            "createdBy": "01",
+            "apptDateTime": "2020-04-16T14:30:00-0400",
+            "length": "30",
+            "roomId": "",
+            "staffId": "03",
+            "patientId": "0002",
+            "type": "Hearing Check",
+            "isVirtual": "true",
+            "status": "Not Completed"
+        },
+        {
+            "dateCreated": "2020-06-28T07:52:07-0700",
+            "createdBy": "02",
+            "apptDateTime": "2020-11-10T16:00:00-0700",
+            "length": "30",
+            "roomId": "001",
+            "staffId": "01",
+            "patientId": "0011",
+            "type": "Consultation",
+            "isVirtual": "false",
+            "status": "Cancelled"
+        },
+        {
+            "dateCreated": "2020-06-19T11:07:16-0700",
+            "createdBy": "01",
+            "apptDateTime": "2020-07-03T09:00:00-0700",
+            "length": "75",
+            "roomId": "",
+            "staffId": "01",
+            "patientId": "0009",
+            "type": "Follow Up",
+            "isVirtual": "true",
+            "status": "Complete"
+        },
+        {
+            "dateCreated": "2020-07-03T12:10:07-0700",
+            "createdBy": "02",
+            "apptDateTime": "2020-10-02T13:15:00-0700",
+            "length": "15",
+            "roomId": "001",
+            "staffId": "03",
+            "patientId": "0006",
+            "type": "Hearing Check",
+            "isVirtual": "false",
+            "status": "Not Completed"
+        },
+        {
+            "dateCreated": "2020-06-18T17:04:51-1100",
+            "createdBy": "02",
+            "apptDateTime": "2021-02-28T09:00:00-1000",
+            "length": "15",
+            "roomId": "",
+            "staffId": "01",
+            "patientId": "0002",
+            "type": "Consultation",
+            "isVirtual": "true",
+            "status": "Not Complete"
+        },
+        {
+            "dateCreated": "2020-10-25T11:31:11-0700",
+            "createdBy": "02",
+            "apptDateTime": "2020-11-26T10:45:00-0700",
+            "length": "45",
+            "roomId": "001",
+            "staffId": "01",
+            "patientId": "0003",
+            "type": "Hearing Check",
+            "isVirtual": "false",
+            "status": "Not Complete"
+        },
+        {
+            "dateCreated": "2018-12-14T11:40:56-0700",
+            "createdBy": "01",
+            "apptDateTime": "2019-03-10T12:30:00-0700",
+            "length": "55",
+            "roomId": "002",
+            "staffId": "01",
+            "patientId": "0005",
+            "type": "Hearing Check",
+            "isVirtual": "false",
+            "status": "Complete"
+        },
+        {
+            "dateCreated": "2017-06-19T10:12:58-0700",
+            "createdBy": "01",
+            "apptDateTime": "2017-07-31T17:00:00-0700",
+            "length": "60",
+            "roomId": "",
+            "staffId": "02",
+            "patientId": "0008",
+            "type": "Consultation",
+            "isVirtual": "true",
+            "status": "Complete"
+        },
+        {
+            "dateCreated": "2020-02-27T14:56:56-0400",
+            "createdBy": "01",
+            "apptDateTime": "2020-11-30T15:30:00-0400",
+            "length": "30",
+            "roomId": "",
+            "staffId": "01",
+            "patientId": "0012",
+            "type": "Consultation",
+            "isVirtual": "false",
+            "status": "Not Complete"
+        },
+        {
+            "dateCreated": "2020-03-27T10:16:10-0700",
+            "createdBy": "02",
+            "apptDateTime": "2020-12-17T10:00:00-0700",
+            "length": "90",
+            "roomId": "",
+            "staffId": "03",
+            "patientId": "0010",
+            "type": "Hearing Check",
+            "isVirtual": "false",
+            "status": "Not Complete"
+        },
+        {
+            "dateCreated": "2020-09-09T16:41:05-0700",
+            "createdBy": "03",
+            "apptDateTime": "2021-01-15T08:30:00-0700",
+            "length": "60",
+            "roomId": "003",
+            "staffId": "01",
+            "patientId": "0003",
+            "type": "Consultation",
+            "isVirtual": "false",
+            "status": "Not Complete"
+        },
+        {
+            "dateCreated": "2019-08-09T16:41:05-0700",
+            "createdBy": "02",
+            "apptDateTime": "2020-01-15T08:30:00-0700",
+            "length": "75",
+            "roomId": "001",
+            "staffId": "01",
+            "patientId": "0004",
+            "type": "Consultation",
+            "isVirtual": "false",
+            "status": "Cancelled"
+        }
+    ],
+    "staff": [
+        {
+            "id": "01",
+            "firstName": "Ra's",
+            "lastName": "al Ghul",
+            "defaultSchedule": {},
+            "type": "Physician"
+        },
+        {
+            "id": "03",
+            "firstName": "Malcolm",
+            "lastName": "Merlin",
+            "defaultSchedule": {},
+            "type": "Receptionist"
+        },
+        {
+            "id": "03",
+            "firstName": "Damien",
+            "lastName": "Dark",
+            "defaultSchedule": {},
+            "type": "Physician"
+        }
+    ],
+    "patients": [
+        {
+            "id": "0001",
+            "firstName": "Oliver",
+            "lastName": "Queen",
+            "imageUrl": "https://www.denofgeek.com/wp-content/uploads/2015/10/green_1-1.jpg?fit=736%2C414"
+        },
+        {
+            "id": "0002",
+            "firstName": "Sara",
+            "lastName": "Lance",
+            "imageUrl": ""
+        },
+        {
+            "id": "0003",
+            "firstName": "Quinten",
+            "lastName": "Lance",
+            "imageUrl": "https://i.pinimg.com/474x/f9/49/a2/f949a2106519fafe7ab813cecdd749ff.jpg"
+        },
+        {
+            "id": "0004",
+            "firstName": "Felicity",
+            "lastName": "Smoak",
+            "imageUrl": "https://imgix-media.wbdndc.net/cms/filer_public/41/5e/415ebf43-81e7-43d2-908c-c85d9eebf438/felicitysmoak-profile-ga_35_20_cmyk-v1-401x600-masthead.jpg"
+        },
+        {
+            "id": "0005",
+            "firstName": "Eobard",
+            "lastName": "Thawne",
+            "imageUrl": "https://vignette.wikia.nocookie.net/deadliestfiction/images/8/8b/Eobard_thawne.jpg/revision/latest/top-crop/width/360/height/450?cb=20160119022826"
+        },
+        {
+            "id": "0006",
+            "firstName": "Laurel",
+            "lastName": "Lance",
+            "imageUrl": "https://am23.mediaite.com/tms/cnt/uploads/2015/01/black-canary-640x384.jpg"
+        },
+        {
+            "id": "0007",
+            "firstName": "Roy",
+            "lastName": "Harper",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Roy_Harper_%28Speedy_-_Arsenal_-_Red_Arrow%29%2C_DC_Comics_character.jpg/250px-Roy_Harper_%28Speedy_-_Arsenal_-_Red_Arrow%29%2C_DC_Comics_character.jpg"
+        },
+        {
+            "id": "0008",
+            "firstName": "Thea",
+            "lastName": "Queen",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Speedy_Dearden.jpg/180px-Speedy_Dearden.jpg"
+        },
+        {
+            "id": "0009",
+            "firstName": "John",
+            "lastName": "Diggle",
+            "imageUrl": "https://vignette.wikia.nocookie.net/marvel_dc/images/8/8f/John_Diggle_Prime_Earth_001.jpg/revision/latest/top-crop/width/720/height/900?cb=20190715150400"
+        },
+        {
+            "id": "0010",
+            "firstName": "Ray",
+            "lastName": "Palmer",
+            "imageUrl": ""
+        },
+        {
+            "id": "0011",
+            "firstName": "Nyssa",
+            "lastName": "al Ghul",
+            "imageUrl": ""
+        },
+        {
+            "id": "0012",
+            "firstName": "Tatsu",
+            "lastName": "Yamashiro",
+            "imageUrl": ""
+        }
+    ],
+    "rooms": [
+        {
+            "id": "001",
+            "title": "Nanda Parbat Main Office"
+        },
+        {
+            "id": "002",
+            "title": "Fitting Room A - Arrowcave"
+        },
+        {
+            "id": "003",
+            "title": "Fitting Room B - Lazarus Pit"
+        },
+        {
+            "id": "004",
+            "title": "Screening Room - Palmer Technologies"
+        }
+    ]
+}
